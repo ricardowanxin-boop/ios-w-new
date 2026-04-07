@@ -1,0 +1,13 @@
+.DS_Store
+*.log
+node_modules/
+.env
+.vscode/
+.idea/
+*.xcuserstate
+*.xcworkspace/xcuserdata/
+DerivedData/
+build/
+*.ipa
+*.dSYM.zip
+Pods/
